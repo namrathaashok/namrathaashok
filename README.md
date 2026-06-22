@@ -67,7 +67,7 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/namrathaashok
-- LinkedIn: https://www.linkedin.com/in/namratha-ashok
+- LinkedIn: https://www.linkedin.com/in/namratha-ashok-39baa0374/
 
 ---
 
