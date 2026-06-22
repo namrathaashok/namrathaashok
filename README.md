@@ -56,14 +56,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namrathaashok&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namrathaashok&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/namrathaashok
