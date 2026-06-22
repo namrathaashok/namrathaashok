@@ -1,40 +1,100 @@
-# Hi, I'm Namratha Ashok 👋
+# Hi there, I'm Namratha Ashok 👋
 
-## About Me
+## 🚀 About Me
+
 🎓 Engineering Student
 
-💻 Interested in Software Development, Electronics, and Emerging Technologies
+💻 Aspiring Software Engineer passionate about programming, problem-solving, and technology
 
-🌱 Currently learning Programming, Arduino Projects, and Semiconductor Physics
+🔧 Interested in Embedded Systems, Arduino, IoT, and Software Development
 
-🚀 Passionate about building innovative projects and solving real-world problems
+🌱 Currently learning Data Structures, Python, Web Development, and Git
 
-## Skills
+✨ Always excited to explore new technologies and build innovative projects
+
+---
+
+## 🛠️ Skills & Technologies
 
 ### Programming Languages
 - C
-- C++
 - Python
-- Java
+- HTML
+- CSS
 
-### Tools & Technologies
-- Git & GitHub
+### Tools & Platforms
+- Git
+- GitHub
 - Arduino IDE
 - VS Code
 
-## Projects
+### Areas of Interest
+- Software Development
+- Embedded Systems
+- Internet of Things (IoT)
+- Electronics
+- Automation
+
+---
+
+## 📚 Education
+
+**Bachelor of Engineering**
+
+Focused on programming, electronics, semiconductor physics, and engineering design.
+
+---
+
+## 🔥 Featured Projects
 
 ### Arduino Fire Fighting Robot
-A robot that detects fire using sensors and automatically extinguishes it.
+- Detects fire using sensors
+- Automatically moves toward the fire source
+- Activates a water pump to extinguish flames
 
 ### Semiconductor Physics Studies
-Research and simulation work related to semiconductor devices and applications.
+- Carrier concentration analysis
+- Hall Effect experiments
+- Solar Cell and LED characteristics
 
-## Education
-Bachelor of Engineering
+### Engineering Mini Projects
+- Arduino-based automation systems
+- Sensor interfacing applications
+- Embedded programming projects
 
-## Connect With Me
-- GitHub: https://github.com/yourusername
+---
+
+## 🎯 Current Goals
+
+✔ Improve Data Structures & Algorithms
+
+✔ Build real-world software projects
+
+✔ Learn Full-Stack Development
+
+✔ Contribute to Open Source
+
+✔ Strengthen Git & GitHub skills
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namrathaashok&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namrathaashok&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/namrathaashok
 - LinkedIn: Add your LinkedIn profile here
 
-⭐ Thanks for visiting my profile!
+---
+
+### 💡 Quote
+
+> "Learning never exhausts the mind; it only expands possibilities."
+
+⭐ Thank you for visiting my profile!
