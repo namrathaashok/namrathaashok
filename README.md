@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 Engineering Student
+🎓 Computer Science Engineering
 
 💻 Aspiring Software Engineer passionate about programming, problem-solving, and technology
 
-🔧 Interested in Embedded Systems, Arduino, IoT, and Software Development
+🔧 Interested in Artificial Intelligence and Machine Learning
 
 🌱 Currently learning Data Structures, Python, Web Development, and Git
 
@@ -19,29 +19,19 @@
 ### Programming Languages
 - C
 - Python
-- HTML
-- CSS
 
 ### Tools & Platforms
 - Git
 - GitHub
-- Arduino IDE
 - VS Code
 
 ### Areas of Interest
 - Software Development
-- Embedded Systems
-- Internet of Things (IoT)
-- Electronics
-- Automation
-
----
+- Artificial Intelligence and Machine Learning
 
 ## 📚 Education
 
-**Bachelor of Engineering**
-
-Focused on programming, electronics, semiconductor physics, and engineering design.
+**Bachelor of Technology**
 
 ---
 
@@ -51,18 +41,6 @@ Focused on programming, electronics, semiconductor physics, and engineering desi
 - Detects fire using sensors
 - Automatically moves toward the fire source
 - Activates a water pump to extinguish flames
-
-### Semiconductor Physics Studies
-- Carrier concentration analysis
-- Hall Effect experiments
-- Solar Cell and LED characteristics
-
-### Engineering Mini Projects
-- Arduino-based automation systems
-- Sensor interfacing applications
-- Embedded programming projects
-
----
 
 ## 🎯 Current Goals
 
@@ -89,7 +67,7 @@ Focused on programming, electronics, semiconductor physics, and engineering desi
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/namrathaashok
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/namratha-ashok
 
 ---
 
