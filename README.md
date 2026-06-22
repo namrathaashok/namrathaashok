@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Namratha Ashok 👋
 
-<!--
-**namrathaashok/namrathaashok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Electronics, and Emerging Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Programming, Arduino Projects, and Semiconductor Physics
+
+🚀 Passionate about building innovative projects and solving real-world problems
+
+## Skills
+
+### Programming Languages
+- C
+- C++
+- Python
+- Java
+
+### Tools & Technologies
+- Git & GitHub
+- Arduino IDE
+- VS Code
+
+## Projects
+
+### Arduino Fire Fighting Robot
+A robot that detects fire using sensors and automatically extinguishes it.
+
+### Semiconductor Physics Studies
+Research and simulation work related to semiconductor devices and applications.
+
+## Education
+Bachelor of Engineering
+
+## Connect With Me
+- GitHub: https://github.com/yourusername
+- LinkedIn: Add your LinkedIn profile here
+
+⭐ Thanks for visiting my profile!
